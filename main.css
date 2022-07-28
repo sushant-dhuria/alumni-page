@@ -2,7 +2,7 @@
 .footer{
     font-family: 'Inter', sans-serif;
     background-color:  #f9f9f9 !important;
-    background-image: url(./images/Rectangle.png);
+    background-image: url(./images/low-poly-white-background-design_1017-33204.webp);
     background-size: cover;
 }
 @media  only screen and (max-width:1050px) {
@@ -22,8 +22,7 @@
 }
 
     .framed {
-        box-shadow:
-          0 0 10px 0 #2167A7;
+      
       width: 100% !important;
       
       background: url('./images/Rectangle.png');
